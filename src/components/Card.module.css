@@ -1,0 +1,32 @@
+.card{
+    font-family: 'Raleway', sans-serif;
+    border-radius: 15px;
+    width: 350px;
+    height: 200px;
+    margin: 15px;
+    color: rgb(252, 249, 249);
+    text-shadow: 80px red;
+    background: linear-gradient(90deg, rgba(102, 100, 104, 0.808) 0%, rgba(243, 240, 240, 0.842) 100%);
+}
+
+.boton{
+    
+    width: 25px;
+    border: white;
+    border-radius: 5px;
+    background: linear-gradient(0deg, rgb(156, 156, 156) 0%, rgba(0, 0, 0, 0.678) 83%);
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    margin-left: 300px;
+
+}
+
+.temp{
+    display: flex;
+    justify-content:space-around;
+
+}
+
+
+

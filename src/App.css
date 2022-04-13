@@ -1,0 +1,12 @@
+
+
+.App {
+  text-align: center;
+  background: url(https://wgsustentable.com/wp-content/uploads/2021/03/AdobeStock_309195144-post-dia-mundial-naturaleza.jpeg);
+  height: 100vh;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
